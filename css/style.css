@@ -289,7 +289,7 @@ footer {
 
 footer .socials a {
   color: #fff;
-  padding: 1rem 0.5;
+  padding: 0.7rem 1rem;
 }
 
 footer .socials a:hover,
@@ -297,7 +297,8 @@ footer .links a:hover {
   color: var(--bg);
 }
 
-footer .links {
+footer .links,
+footer .socials {
   margin-bottom: 1.4rem;
 }
 
